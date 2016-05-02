@@ -1,0 +1,28 @@
+name: MC Medical Associates
+favicon: null
+layout_spectrum: 0.5666541720274836
+typography_spectrum: 0.871308587025851
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8278254475444555
+  lightness: 0.8311346520204097
+  saturation: 0.5193371374625713
+  rhythmicContrast: 0.8005860210396349
+purpose: []
